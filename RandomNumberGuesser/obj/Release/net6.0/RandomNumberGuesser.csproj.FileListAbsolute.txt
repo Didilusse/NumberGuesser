@@ -1,0 +1,15 @@
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/bin/Release/net6.0/RandomNumberGuesser
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/bin/Release/net6.0/RandomNumberGuesser.deps.json
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/bin/Release/net6.0/RandomNumberGuesser.runtimeconfig.json
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/bin/Release/net6.0/RandomNumberGuesser.dll
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/bin/Release/net6.0/RandomNumberGuesser.pdb
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/obj/Release/net6.0/RandomNumberGuesser.csproj.AssemblyReference.cache
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/obj/Release/net6.0/RandomNumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/obj/Release/net6.0/RandomNumberGuesser.AssemblyInfoInputs.cache
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/obj/Release/net6.0/RandomNumberGuesser.AssemblyInfo.cs
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/obj/Release/net6.0/RandomNumberGuesser.csproj.CoreCompileInputs.cache
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/obj/Release/net6.0/RandomNumberGuesser.dll
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/obj/Release/net6.0/refint/RandomNumberGuesser.dll
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/obj/Release/net6.0/RandomNumberGuesser.pdb
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/obj/Release/net6.0/RandomNumberGuesser.genruntimeconfig.cache
+/Users/adil/Documents/C#/RandomNumberGuesser/RandomNumberGuesser/obj/Release/net6.0/ref/RandomNumberGuesser.dll
